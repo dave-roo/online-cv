@@ -48,24 +48,19 @@ education:
         university: University of Paris-Saclay
         time: 2020 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          A specialized program between Paris-Sud, Paris Telecom and Superlec Paris focused on Analog Mixed Signal and Digital Design.
+            - AMS Design using Virtuoso
+            - Soft IP design
+            - Telecommunication and RF
+            - Sensors and AI Hardware fundamentals
       - degree: BSc in Electrical Engineering
         university: RMIT University
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          An Electrical and Electronics program covering Mathematics, Physics and Electronics. In the senior years the program
+          narrowed the focus, these subjects included Analog/Digital Circuit Design, PCB Design, Material Science to Telecommunications.
+            - Distinction awarded in the Honours program
+            - Final Year program graded HD (Photonic Adjustment Device designed and prototyped)
 experiences:
     title: Experience
     info:
@@ -87,11 +82,11 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: A53 Cortex 
+      - title: Lab Characterization of FPGAs 
         link: "#"
         tagline: "STA/Synthesis"
 
-      - title: Custom SerDes Blocks
+      - title: IC Backend Activities
         link: "#"
         tagline: "STA/Synthesis"
 
@@ -107,9 +102,17 @@ skills:
       - name: TCL
         level: 98%
        
-      - name: C/C++
+      - name: DFT
+        level: 98%
+       
+      - name: Innovus
         level: 98%
         
+      - name: Genus
+        level: 98%
+        
+      - name: Tempus
+        level: 98%
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
